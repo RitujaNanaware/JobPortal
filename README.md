@@ -3,6 +3,8 @@
 ## Overview
 JobBhartee.com is a comprehensive job search and recruitment platform that connects job seekers with employers. The platform utilizes advanced features including resume parsing and intelligent job matching to streamline the recruitment process.
 
+image.png
+image.png
 ## Features
 
 ### For Job Providers (Companies)
@@ -184,3 +186,15 @@ final_year_project/
 ## Acknowledgments
 - Django Framework
 - [Add other acknowledgments]
+
+### Home Page
+![Home Page](final_year_project\images\1.png)
+
+### Student Dashboard
+![Student Dashboard](final_year_project\images\2.png)
+
+### Company Dashboard
+![Company Dashboard](final_year_project\images\3.png)
+
+### Job Application
+![Job Application](trial/campus/campus/static/campus/images/p3.jpg)
